@@ -165,14 +165,14 @@ export default function Home() {
                 <div className="aspect-[3/2] relative">
                   <Image
                     src="/assets/images/an.jpeg?height=600&width=900"
-                    alt="Polyanskaya Anastasia"
+                    alt="Polianska Anastasiia"
                     fill
                     className="object-cover"
                   />
                 </div>
                 <div className="p-6">
                   <h3 className="text-xl font-bold mb-2">
-                    Polyanskaya Anastasia
+                    Polianska Anastasiia
                   </h3>
                   <p className="text-gray-300 mb-4">
                     Responsible for the visual component: developed character
@@ -191,13 +191,13 @@ export default function Home() {
                 <div className="aspect-[3/2] relative border border-[#581717] rounded-lg">
                   <Image
                     src="/assets/images/oln.jpg?height=600&width=900"
-                    alt="Svillie Olena"
+                    alt="Sville Olena"
                     fill
                     className="object-cover"
                   />
                 </div>
                 <div className="p-6">
-                  <h3 className="text-xl font-bold mb-2">Svillie Olena</h3>
+                  <h3 className="text-xl font-bold mb-2">Sville Olena</h3>
                   <p className="text-gray-300 mb-4">
                     Worked on the text content: created the plot, wrote choice
                     options, translated dialogues into different languages, and
@@ -355,7 +355,7 @@ export default function Home() {
               </span>
             </div>
             <div className="text-center md:text-right text-sm text-gray-400">
-              <p>© 2025 Polyanskaya Anastasia & Svillie Olena</p>
+              <p>© 2025 Polianska Anastasiia & Sville Olena</p>
               <p>Created with Ren'Py & Python</p>
             </div>
           </div>
